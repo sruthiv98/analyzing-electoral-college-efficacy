@@ -1,0 +1,957 @@
+,State,Electoral Vote of Each State,Democrat,Republican,Year
+0,Alabama,11,11,0,1944
+1,Arizona,4,4,0,1944
+2,Arkansas,9,9,0,1944
+3,California,25,25,0,1944
+4,Colorado,6,0,6,1944
+5,Connecticut,8,8,0,1944
+6,Delaware,3,3,0,1944
+7,Florida,8,8,0,1944
+8,Georgia,12,12,0,1944
+9,Idaho,4,4,0,1944
+10,Illinois,28,28,0,1944
+11,Indiana,13,0,13,1944
+12,Iowa,10,0,10,1944
+13,Kansas,8,0,8,1944
+14,Kentucky,11,11,0,1944
+15,Louisiana,10,10,0,1944
+16,Maine,5,0,5,1944
+17,Maryland,8,8,0,1944
+18,Massachusetts,16,16,0,1944
+19,Michigan,19,19,0,1944
+20,Minnesota,11,11,0,1944
+21,Mississippi,9,9,0,1944
+22,Missouri,15,15,0,1944
+23,Montana,4,4,0,1944
+24,Nebraska,6,0,6,1944
+25,Nevada,3,3,0,1944
+26,New Hampshire,4,4,0,1944
+27,New Jersey,16,16,0,1944
+28,New Mexico,4,4,0,1944
+29,New York,47,47,0,1944
+30,North Carolina,14,14,0,1944
+31,North Dakota,4,0,4,1944
+32,Ohio,25,0,25,1944
+33,Oklahoma,10,10,0,1944
+34,Oregon,6,6,0,1944
+35,Pennsylvania,35,35,0,1944
+36,Rhode Island,4,4,0,1944
+37,South Carolina,8,8,0,1944
+38,South Dakota,4,0,4,1944
+39,Tennessee,12,12,0,1944
+40,Texas,23,23,0,1944
+41,Utah,4,4,0,1944
+42,Vermont,3,0,3,1944
+43,Virginia,11,11,0,1944
+44,Washington,8,8,0,1944
+45,West Virginia,8,8,0,1944
+46,Wisconsin,12,0,12,1944
+47,Wyoming,3,0,3,1944
+48,Alabama,11,0,0,1948
+49,Arizona,4,4,0,1948
+50,Arkansas,9,9,0,1948
+51,California,25,25,0,1948
+52,Colorado,6,6,0,1948
+53,Connecticut,8,0,8,1948
+54,Delaware,3,0,3,1948
+55,Florida,8,8,0,1948
+56,Georgia,12,12,0,1948
+57,Idaho,4,4,0,1948
+58,Illinois,28,28,0,1948
+59,Indiana,13,0,13,1948
+60,Iowa,10,10,0,1948
+61,Kansas,8,0,8,1948
+62,Kentucky,11,11,0,1948
+63,Louisiana,10,0,0,1948
+64,Maine,5,0,5,1948
+65,Maryland,8,0,8,1948
+66,Massachusetts,16,16,0,1948
+67,Michigan,19,0,19,1948
+68,Minnesota,11,11,0,1948
+69,Mississippi,9,0,0,1948
+70,Missouri,15,15,0,1948
+71,Montana,4,4,0,1948
+72,Nebraska,6,0,6,1948
+73,Nevada,3,3,0,1948
+74,New Hampshire,4,0,4,1948
+75,New Jersey,16,0,16,1948
+76,New Mexico,4,4,0,1948
+77,New York,47,0,47,1948
+78,North Carolina,14,14,0,1948
+79,North Dakota,4,0,4,1948
+80,Ohio,25,25,0,1948
+81,Oklahoma,10,10,0,1948
+82,Oregon,6,0,6,1948
+83,Pennsylvania,35,0,35,1948
+84,Rhode Island,4,4,0,1948
+85,South Carolina,8,0,0,1948
+86,South Dakota,4,0,4,1948
+87,Tennessee,12,11,0,1948
+88,Texas,23,23,0,1948
+89,Utah,4,4,0,1948
+90,Vermont,3,0,3,1948
+91,Virginia,11,11,0,1948
+92,Washington,8,8,0,1948
+93,West Virginia,8,8,0,1948
+94,Wisconsin,12,12,0,1948
+95,Wyoming,3,3,0,1948
+96,Alabama,11,11,0,1952
+97,Arizona,4,0,4,1952
+98,Arkansas,8,8,0,1952
+99,California,32,0,32,1952
+100,Colorado,6,0,6,1952
+101,Connecticut,8,0,8,1952
+102,Delaware,3,0,3,1952
+103,Florida,10,0,10,1952
+104,Georgia,12,12,0,1952
+105,Idaho,4,0,4,1952
+106,Illinois,27,0,27,1952
+107,Indiana,13,0,13,1952
+108,Iowa,10,0,10,1952
+109,Kansas,8,0,8,1952
+110,Kentucky,10,10,0,1952
+111,Louisiana,10,10,0,1952
+112,Maine,5,0,5,1952
+113,Maryland,9,0,9,1952
+114,Massachusetts,16,0,16,1952
+115,Michigan,20,0,20,1952
+116,Minnesota,11,0,11,1952
+117,Mississippi,8,8,0,1952
+118,Missouri,13,0,13,1952
+119,Montana,4,0,4,1952
+120,Nebraska,6,0,6,1952
+121,Nevada,3,0,3,1952
+122,New Hampshire,4,0,4,1952
+123,New Jersey,16,0,16,1952
+124,New Mexico,4,0,4,1952
+125,New York,45,0,45,1952
+126,North Carolina,14,14,0,1952
+127,North Dakota,4,0,4,1952
+128,Ohio,25,0,25,1952
+129,Oklahoma,8,0,8,1952
+130,Oregon,6,0,6,1952
+131,Pennsylvania,32,0,32,1952
+132,Rhode Island,4,0,4,1952
+133,South Carolina,8,8,0,1952
+134,South Dakota,4,0,4,1952
+135,Tennessee,11,0,11,1952
+136,Texas,24,0,24,1952
+137,Utah,4,0,4,1952
+138,Vermont,3,0,3,1952
+139,Virginia,12,0,12,1952
+140,Washington,9,0,9,1952
+141,West Virginia,8,8,0,1952
+142,Wisconsin,12,0,12,1952
+143,Wyoming,3,0,3,1952
+144,Alabama,11,10,0,1956
+145,Arizona,4,0,4,1956
+146,Arkansas,8,8,0,1956
+147,California,32,0,32,1956
+148,Colorado,6,0,6,1956
+149,Connecticut,8,0,8,1956
+150,Delaware,3,0,3,1956
+151,Florida,10,0,10,1956
+152,Georgia,12,12,0,1956
+153,Idaho,4,0,4,1956
+154,Illinois,27,0,27,1956
+155,Indiana,13,0,13,1956
+156,Iowa,10,0,10,1956
+157,Kansas,8,0,8,1956
+158,Kentucky,10,0,10,1956
+159,Louisiana,10,0,10,1956
+160,Maine,5,0,5,1956
+161,Maryland,9,0,9,1956
+162,Massachusetts,16,0,16,1956
+163,Michigan,20,0,20,1956
+164,Minnesota,11,0,11,1956
+165,Mississippi,8,8,0,1956
+166,Missouri,13,13,0,1956
+167,Montana,4,0,4,1956
+168,Nebraska,6,0,6,1956
+169,Nevada,3,0,3,1956
+170,New Hampshire,4,0,4,1956
+171,New Jersey,16,0,16,1956
+172,New Mexico,4,0,4,1956
+173,New York,45,0,45,1956
+174,North Carolina,14,14,0,1956
+175,North Dakota,4,0,4,1956
+176,Ohio,25,0,25,1956
+177,Oklahoma,8,0,8,1956
+178,Oregon,6,0,6,1956
+179,Pennsylvania,32,0,32,1956
+180,Rhode Island,4,0,4,1956
+181,South Carolina,8,8,0,1956
+182,South Dakota,4,0,4,1956
+183,Tennessee,11,0,11,1956
+184,Texas,24,0,24,1956
+185,Utah,4,0,4,1956
+186,Vermont,3,0,3,1956
+187,Virginia,12,0,12,1956
+188,Washington,9,0,9,1956
+189,West Virginia,8,0,8,1956
+190,Wisconsin,12,0,12,1956
+191,Wyoming,3,0,3,1956
+192,Alabama,11,5,0,1960
+193,Alaska,3,0,3,1960
+194,Arizona,4,0,4,1960
+195,Arkansas,8,8,0,1960
+196,California,32,0,32,1960
+197,Colorado,6,0,6,1960
+198,Connecticut,8,8,0,1960
+199,Delaware,3,3,0,1960
+200,Florida,10,0,10,1960
+201,Georgia,12,12,0,1960
+202,Hawaii,3,3,0,1960
+203,Idaho,4,0,4,1960
+204,Illinois,27,27,0,1960
+205,Indiana,13,0,13,1960
+206,Iowa,10,0,10,1960
+207,Kansas,8,0,8,1960
+208,Kentucky,10,0,10,1960
+209,Louisiana,10,10,0,1960
+210,Maine,5,0,5,1960
+211,Maryland,9,9,0,1960
+212,Massachusetts,16,16,0,1960
+213,Michigan,20,20,0,1960
+214,Minnesota,11,11,0,1960
+215,Mississippi,8,0,0,1960
+216,Missouri,13,13,0,1960
+217,Montana,4,0,4,1960
+218,Nebraska,6,0,6,1960
+219,Nevada,3,3,0,1960
+220,New Hampshire,4,0,4,1960
+221,New Jersey,16,16,0,1960
+222,New Mexico,4,4,0,1960
+223,New York,45,45,0,1960
+224,North Carolina,14,14,0,1960
+225,North Dakota,4,0,4,1960
+226,Ohio,25,0,25,1960
+227,Oklahoma,8,0,7,1960
+228,Oregon,6,0,6,1960
+229,Pennsylvania,32,32,0,1960
+230,Rhode Island,4,4,0,1960
+231,South Carolina,8,8,0,1960
+232,South Dakota,4,0,4,1960
+233,Tennessee,11,0,11,1960
+234,Texas,24,24,0,1960
+235,Utah,4,0,4,1960
+236,Vermont,3,0,3,1960
+237,Virginia,12,0,12,1960
+238,Washington,9,0,9,1960
+239,West Virginia,8,8,0,1960
+240,Wisconsin,12,0,12,1960
+241,Wyoming,3,0,3,1960
+242,Alabama,10,0,10,1964
+243,Alaska,3,3,0,1964
+244,Arizona,5,0,5,1964
+245,Arkansas,6,6,0,1964
+246,California,40,40,0,1964
+247,Colorado,6,6,0,1964
+248,Connecticut,8,8,0,1964
+249,Delaware,3,3,0,1964
+250,District of Columbia,3,3,0,1964
+251,Florida,14,14,0,1964
+252,Georgia,12,0,12,1964
+253,Hawaii,4,4,0,1964
+254,Idaho,4,4,0,1964
+255,Illinois,26,26,0,1964
+256,Indiana,13,13,0,1964
+257,Iowa,9,9,0,1964
+258,Kansas,7,7,0,1964
+259,Kentucky,9,9,0,1964
+260,Louisiana,10,0,10,1964
+261,Maine,4,4,0,1964
+262,Maryland,10,10,0,1964
+263,Massachusetts,14,14,0,1964
+264,Michigan,21,21,0,1964
+265,Minnesota,10,10,0,1964
+266,Mississippi,7,0,7,1964
+267,Missouri,12,12,0,1964
+268,Montana,4,4,0,1964
+269,Nebraska,5,5,0,1964
+270,Nevada,3,3,0,1964
+271,New Hampshire,4,4,0,1964
+272,New Jersey,17,17,0,1964
+273,New Mexico,4,4,0,1964
+274,New York,43,43,0,1964
+275,North Carolina,13,13,0,1964
+276,North Dakota,4,4,0,1964
+277,Ohio,26,26,0,1964
+278,Oklahoma,8,8,0,1964
+279,Oregon,6,6,0,1964
+280,Pennsylvania,29,29,0,1964
+281,Rhode Island,4,4,0,1964
+282,South Carolina,8,0,8,1964
+283,South Dakota,4,4,0,1964
+284,Tennessee,11,11,0,1964
+285,Texas,25,25,0,1964
+286,Utah,4,4,0,1964
+287,Vermont,3,3,0,1964
+288,Virginia,12,12,0,1964
+289,Washington,9,9,0,1964
+290,West Virginia,7,7,0,1964
+291,Wisconsin,12,12,0,1964
+292,Wyoming,3,3,0,1964
+293,Alabama,10,0,0,1968
+294,Alaska,3,0,3,1968
+295,Arizona,5,0,5,1968
+296,Arkansas,6,0,0,1968
+297,California,40,0,40,1968
+298,Colorado,6,0,6,1968
+299,Connecticut,8,8,0,1968
+300,Delaware,3,0,3,1968
+301,District of Columbia,3,3,0,1968
+302,Florida,14,0,14,1968
+303,Georgia,12,0,0,1968
+304,Hawaii,4,4,0,1968
+305,Idaho,4,0,4,1968
+306,Illinois,26,0,26,1968
+307,Indiana,13,0,13,1968
+308,Iowa,9,0,9,1968
+309,Kansas,7,0,7,1968
+310,Kentucky,9,0,9,1968
+311,Louisiana,10,0,0,1968
+312,Maine,4,4,0,1968
+313,Maryland,10,10,0,1968
+314,Massachusetts,14,14,0,1968
+315,Michigan,21,21,0,1968
+316,Minnesota,10,10,0,1968
+317,Mississippi,7,0,0,1968
+318,Missouri,12,0,12,1968
+319,Montana,4,0,4,1968
+320,Nebraska,5,0,5,1968
+321,Nevada,3,0,3,1968
+322,New Hampshire,4,0,4,1968
+323,New Jersey,17,0,17,1968
+324,New Mexico,4,0,4,1968
+325,New York,43,43,0,1968
+326,North Carolina,13,0,12,1968
+327,North Dakota,4,0,4,1968
+328,Ohio,26,0,26,1968
+329,Oklahoma,8,0,8,1968
+330,Oregon,6,0,6,1968
+331,Pennsylvania,29,29,0,1968
+332,Rhode Island,4,4,0,1968
+333,South Carolina,8,0,8,1968
+334,South Dakota,4,0,4,1968
+335,Tennessee,11,0,11,1968
+336,Texas,25,25,0,1968
+337,Utah,4,0,4,1968
+338,Vermont,3,0,3,1968
+339,Virginia,12,0,12,1968
+340,Washington,9,9,0,1968
+341,West Virginia,7,7,0,1968
+342,Wisconsin,12,0,12,1968
+343,Wyoming,3,0,3,1968
+344,Alabama,9,0,9,1972
+345,Alaska,3,0,3,1972
+346,Arizona,6,0,6,1972
+347,Arkansas,6,0,6,1972
+348,California,45,0,45,1972
+349,Colorado,7,0,7,1972
+350,Connecticut,8,0,8,1972
+351,Delaware,3,0,3,1972
+352,District of Columbia,3,3,0,1972
+353,Florida,17,0,17,1972
+354,Georgia,12,0,12,1972
+355,Hawaii,4,0,4,1972
+356,Idaho,4,0,4,1972
+357,Illinois,26,0,26,1972
+358,Indiana,13,0,13,1972
+359,Iowa,8,0,8,1972
+360,Kansas,7,0,7,1972
+361,Kentucky,9,0,9,1972
+362,Louisiana,10,0,10,1972
+363,Maine,4,0,4,1972
+364,Maryland,10,0,10,1972
+365,Massachusetts,14,14,0,1972
+366,Michigan,21,0,21,1972
+367,Minnesota,10,0,10,1972
+368,Mississippi,7,0,7,1972
+369,Missouri,12,0,12,1972
+370,Montana,4,0,4,1972
+371,Nebraska,5,0,5,1972
+372,Nevada,3,0,3,1972
+373,New Hampshire,4,0,4,1972
+374,New Jersey,17,0,17,1972
+375,New Mexico,4,0,4,1972
+376,New York,41,0,41,1972
+377,North Carolina,13,0,13,1972
+378,North Dakota,3,0,3,1972
+379,Ohio,25,0,25,1972
+380,Oklahoma,8,0,8,1972
+381,Oregon,6,0,6,1972
+382,Pennsylvania,27,0,27,1972
+383,Rhode Island,4,0,4,1972
+384,South Carolina,8,0,8,1972
+385,South Dakota,4,0,4,1972
+386,Tennessee,10,0,10,1972
+387,Texas,26,0,26,1972
+388,Utah,4,0,4,1972
+389,Vermont,3,0,3,1972
+390,Virginia,12,0,11,1972
+391,Washington,9,0,9,1972
+392,West Virginia,6,0,6,1972
+393,Wisconsin,11,0,11,1972
+394,Wyoming,3,0,3,1972
+395,Alabama,9,9,0,1976
+396,Alaska,3,0,3,1976
+397,Arizona,6,0,6,1976
+398,Arkansas,6,6,0,1976
+399,California,45,0,45,1976
+400,Colorado,7,0,7,1976
+401,Connecticut,8,0,8,1976
+402,Delaware,3,3,0,1976
+403,District of Columbia,3,3,0,1976
+404,Florida,17,17,0,1976
+405,Georgia,12,12,0,1976
+406,Hawaii,4,4,0,1976
+407,Idaho,4,0,4,1976
+408,Illinois,26,0,26,1976
+409,Indiana,13,0,13,1976
+410,Iowa,8,0,8,1976
+411,Kansas,7,0,7,1976
+412,Kentucky,9,9,0,1976
+413,Louisiana,10,10,0,1976
+414,Maine,4,0,4,1976
+415,Maryland,10,10,0,1976
+416,Massachusetts,14,14,0,1976
+417,Michigan,21,0,21,1976
+418,Minnesota,10,10,0,1976
+419,Mississippi,7,7,0,1976
+420,Missouri,12,12,0,1976
+421,Montana,4,0,4,1976
+422,Nebraska,5,0,5,1976
+423,Nevada,3,0,3,1976
+424,New Hampshire,4,0,4,1976
+425,New Jersey,17,0,17,1976
+426,New Mexico,4,0,4,1976
+427,New York,41,41,0,1976
+428,North Carolina,13,13,0,1976
+429,North Dakota,3,0,3,1976
+430,Ohio,25,25,0,1976
+431,Oklahoma,8,0,8,1976
+432,Oregon,6,0,6,1976
+433,Pennsylvania,27,27,0,1976
+434,Rhode Island,4,4,0,1976
+435,South Carolina,8,8,0,1976
+436,South Dakota,4,0,4,1976
+437,Tennessee,10,10,0,1976
+438,Texas,26,26,0,1976
+439,Utah,4,0,4,1976
+440,Vermont,3,0,3,1976
+441,Virginia,12,0,12,1976
+442,Washington,9,0,8,1976
+443,West Virginia,6,6,0,1976
+444,Wisconsin,11,11,0,1976
+445,Wyoming,3,0,3,1976
+446,Alabama,9,0,9,1980
+447,Alaska,3,0,3,1980
+448,Arizona,6,0,6,1980
+449,Arkansas,6,0,6,1980
+450,California,45,0,45,1980
+451,Colorado,7,0,7,1980
+452,Connecticut,8,0,8,1980
+453,Delaware,3,0,3,1980
+454,District of Columbia,3,3,0,1980
+455,Florida,17,0,17,1980
+456,Georgia,12,12,0,1980
+457,Hawaii,4,4,0,1980
+458,Idaho,4,0,4,1980
+459,Illinois,26,0,26,1980
+460,Indiana,13,0,13,1980
+461,Iowa,8,0,8,1980
+462,Kansas,7,0,7,1980
+463,Kentucky,9,0,9,1980
+464,Louisiana,10,0,10,1980
+465,Maine,4,0,4,1980
+466,Maryland,10,10,0,1980
+467,Massachusetts,14,0,14,1980
+468,Michigan,21,0,21,1980
+469,Minnesota,10,10,0,1980
+470,Mississippi,7,0,7,1980
+471,Missouri,12,0,12,1980
+472,Montana,4,0,4,1980
+473,Nebraska,5,0,5,1980
+474,Nevada,3,0,3,1980
+475,New Hampshire,4,0,4,1980
+476,New Jersey,17,0,17,1980
+477,New Mexico,4,0,4,1980
+478,New York,41,0,41,1980
+479,North Carolina,13,0,13,1980
+480,North Dakota,3,0,3,1980
+481,Ohio,25,0,25,1980
+482,Oklahoma,8,0,8,1980
+483,Oregon,6,0,6,1980
+484,Pennsylvania,27,0,27,1980
+485,Rhode Island,4,4,0,1980
+486,South Carolina,8,0,8,1980
+487,South Dakota,4,0,4,1980
+488,Tennessee,10,0,10,1980
+489,Texas,26,0,26,1980
+490,Utah,4,0,4,1980
+491,Vermont,3,0,3,1980
+492,Virginia,12,0,12,1980
+493,Washington,9,0,9,1980
+494,West Virginia,6,6,0,1980
+495,Wisconsin,11,0,11,1980
+496,Wyoming,3,0,3,1980
+497,Alabama,9,0,9,1984
+498,Alaska,3,0,3,1984
+499,Arizona,7,0,7,1984
+500,Arkansas,6,0,6,1984
+501,California,47,0,47,1984
+502,Colorado,8,0,8,1984
+503,Connecticut,8,0,8,1984
+504,Delaware,3,0,3,1984
+505,District of Columbia,3,3,0,1984
+506,Florida,21,0,21,1984
+507,Georgia,12,0,12,1984
+508,Hawaii,4,0,4,1984
+509,Idaho,4,0,4,1984
+510,Illinois,24,0,24,1984
+511,Indiana,12,0,12,1984
+512,Iowa,8,0,8,1984
+513,Kansas,7,0,7,1984
+514,Kentucky,9,0,9,1984
+515,Louisiana,10,0,10,1984
+516,Maine,4,0,4,1984
+517,Maryland,10,0,10,1984
+518,Massachusetts,13,0,13,1984
+519,Michigan,20,0,20,1984
+520,Minnesota,10,10,0,1984
+521,Mississippi,7,0,7,1984
+522,Missouri,11,0,11,1984
+523,Montana,4,0,4,1984
+524,Nebraska,5,0,5,1984
+525,Nevada,4,0,4,1984
+526,New Hampshire,4,0,4,1984
+527,New Jersey,16,0,16,1984
+528,New Mexico,5,0,5,1984
+529,New York,36,0,36,1984
+530,North Carolina,13,0,13,1984
+531,North Dakota,3,0,3,1984
+532,Ohio,23,0,23,1984
+533,Oklahoma,8,0,8,1984
+534,Oregon,7,0,7,1984
+535,Pennsylvania,25,0,25,1984
+536,Rhode Island,4,0,4,1984
+537,South Carolina,8,0,8,1984
+538,South Dakota,3,0,3,1984
+539,Tennessee,11,0,11,1984
+540,Texas,29,0,29,1984
+541,Utah,5,0,5,1984
+542,Vermont,3,0,3,1984
+543,Virginia,12,0,12,1984
+544,Washington,10,0,10,1984
+545,West Virginia,6,0,6,1984
+546,Wisconsin,11,0,11,1984
+547,Wyoming,3,0,3,1984
+548,Alabama,9,0,9,1988
+549,Alaska,3,0,3,1988
+550,Arizona,7,0,7,1988
+551,Arkansas,6,0,6,1988
+552,California,47,0,47,1988
+553,Colorado,8,0,8,1988
+554,Connecticut,8,0,8,1988
+555,Delaware,3,0,3,1988
+556,District of Columbia,3,3,0,1988
+557,Florida,21,0,21,1988
+558,Georgia,12,0,12,1988
+559,Hawaii,4,4,0,1988
+560,Idaho,4,0,4,1988
+561,Illinois,24,0,24,1988
+562,Indiana,12,0,12,1988
+563,Iowa,8,8,0,1988
+564,Kansas,7,0,7,1988
+565,Kentucky,9,0,9,1988
+566,Louisiana,10,0,10,1988
+567,Maine,4,0,4,1988
+568,Maryland,10,0,10,1988
+569,Massachusetts,13,13,0,1988
+570,Michigan,20,0,20,1988
+571,Minnesota,10,10,0,1988
+572,Mississippi,7,0,7,1988
+573,Missouri,11,0,11,1988
+574,Montana,4,0,4,1988
+575,Nebraska,5,0,5,1988
+576,Nevada,4,0,4,1988
+577,New Hampshire,4,0,4,1988
+578,New Jersey,16,0,16,1988
+579,New Mexico,5,0,5,1988
+580,New York,36,36,0,1988
+581,North Carolina,13,0,13,1988
+582,North Dakota,3,0,3,1988
+583,Ohio,23,0,23,1988
+584,Oklahoma,8,0,8,1988
+585,Oregon,7,7,0,1988
+586,Pennsylvania,25,0,25,1988
+587,Rhode Island,4,4,0,1988
+588,South Carolina,8,0,8,1988
+589,South Dakota,3,0,3,1988
+590,Tennessee,11,0,11,1988
+591,Texas,29,0,29,1988
+592,Utah,5,0,5,1988
+593,Vermont,3,0,3,1988
+594,Virginia,12,0,12,1988
+595,Washington,10,10,0,1988
+596,West Virginia,6,5,0,1988
+597,Wisconsin,11,11,0,1988
+598,Wyoming,3,0,3,1988
+599,Alabama,9,0,9,1992
+600,Alaska,3,0,3,1992
+601,Arizona,8,0,8,1992
+602,Arkansas,6,6,0,1992
+603,California,54,54,0,1992
+604,Colorado,8,8,0,1992
+605,Connecticut,8,8,0,1992
+606,Delaware,3,3,0,1992
+607,District of Columbia,3,3,0,1992
+608,Florida,25,0,25,1992
+609,Georgia,13,13,0,1992
+610,Hawaii,4,4,0,1992
+611,Idaho,4,0,4,1992
+612,Illinois,22,22,0,1992
+613,Indiana,12,0,12,1992
+614,Iowa,7,7,0,1992
+615,Kansas,6,0,6,1992
+616,Kentucky,8,8,0,1992
+617,Louisiana,9,9,0,1992
+618,Maine,4,4,0,1992
+619,Maryland,10,10,0,1992
+620,Massachusetts,12,12,0,1992
+621,Michigan,18,18,0,1992
+622,Minnesota,10,10,0,1992
+623,Mississippi,7,0,7,1992
+624,Missouri,11,11,0,1992
+625,Montana,3,3,0,1992
+626,Nebraska,5,0,5,1992
+627,Nevada,4,4,0,1992
+628,New Hampshire,4,4,0,1992
+629,New Jersey,15,15,0,1992
+630,New Mexico,5,5,0,1992
+631,New York,33,33,0,1992
+632,North Carolina,14,0,14,1992
+633,North Dakota,3,0,3,1992
+634,Ohio,21,21,0,1992
+635,Oklahoma,8,0,8,1992
+636,Oregon,7,7,0,1992
+637,Pennsylvania,23,23,0,1992
+638,Rhode Island,4,4,0,1992
+639,South Carolina,8,0,8,1992
+640,South Dakota,3,0,3,1992
+641,Tennessee,11,11,0,1992
+642,Texas,32,0,32,1992
+643,Utah,5,0,5,1992
+644,Vermont,3,3,0,1992
+645,Virginia,13,0,13,1992
+646,Washington,11,11,0,1992
+647,West Virginia,5,5,0,1992
+648,Wisconsin,11,11,0,1992
+649,Wyoming,3,0,3,1992
+650,Alabama,9,0,9,1996
+651,Alaska,3,0,3,1996
+652,Arizona,8,8,0,1996
+653,Arkansas,6,6,0,1996
+654,California,54,54,0,1996
+655,Colorado,8,0,8,1996
+656,Connecticut,8,8,0,1996
+657,Delaware,3,3,0,1996
+658,District of Columbia,3,3,0,1996
+659,Florida,25,25,0,1996
+660,Georgia,13,0,13,1996
+661,Hawaii,4,4,0,1996
+662,Idaho,4,0,4,1996
+663,Illinois,22,22,0,1996
+664,Indiana,12,0,12,1996
+665,Iowa,7,7,0,1996
+666,Kansas,6,0,6,1996
+667,Kentucky,8,8,0,1996
+668,Louisiana,9,9,0,1996
+669,Maine,4,4,0,1996
+670,Maryland,10,10,0,1996
+671,Massachusetts,12,12,0,1996
+672,Michigan,18,18,0,1996
+673,Minnesota,10,10,0,1996
+674,Mississippi,7,0,7,1996
+675,Missouri,11,11,0,1996
+676,Montana,3,0,3,1996
+677,Nebraska,5,0,5,1996
+678,Nevada,4,4,0,1996
+679,New Hampshire,4,4,0,1996
+680,New Jersey,15,15,0,1996
+681,New Mexico,5,5,0,1996
+682,New York,33,33,0,1996
+683,North Carolina,14,0,14,1996
+684,North Dakota,3,0,3,1996
+685,Ohio,21,21,0,1996
+686,Oklahoma,8,0,8,1996
+687,Oregon,7,7,0,1996
+688,Pennsylvania,23,23,0,1996
+689,Rhode Island,4,4,0,1996
+690,South Carolina,8,0,8,1996
+691,South Dakota,3,0,3,1996
+692,Tennessee,11,11,0,1996
+693,Texas,32,0,32,1996
+694,Utah,5,0,5,1996
+695,Vermont,3,3,0,1996
+696,Virginia,13,0,13,1996
+697,Washington,11,11,0,1996
+698,West Virginia,5,5,0,1996
+699,Wisconsin,11,11,0,1996
+700,Wyoming,3,0,3,1996
+701,Alabama,9,0,9,2000
+702,Alaska,3,0,3,2000
+703,Arizona,8,0,8,2000
+704,Arkansas,6,0,6,2000
+705,California,54,54,0,2000
+706,Colorado,8,0,8,2000
+707,Connecticut,8,8,0,2000
+708,Delaware,3,3,0,2000
+709,District of Columbia,3,2,0,2000
+710,Florida,25,0,25,2000
+711,Georgia,13,0,13,2000
+712,Hawaii,4,4,0,2000
+713,Idaho,4,0,4,2000
+714,Illinois,22,22,0,2000
+715,Indiana,12,0,12,2000
+716,Iowa,7,7,0,2000
+717,Kansas,6,0,6,2000
+718,Kentucky,8,0,8,2000
+719,Louisiana,9,0,9,2000
+720,Maine,4,4,0,2000
+721,Maryland,10,10,0,2000
+722,Massachusetts,12,12,0,2000
+723,Michigan,18,18,0,2000
+724,Minnesota,10,10,0,2000
+725,Mississippi,7,0,7,2000
+726,Missouri,11,0,11,2000
+727,Montana,3,0,3,2000
+728,Nebraska,5,0,5,2000
+729,Nevada,4,0,4,2000
+730,New Hampshire,4,0,4,2000
+731,New Jersey,15,15,0,2000
+732,New Mexico,5,5,0,2000
+733,New York,33,33,0,2000
+734,North Carolina,14,0,14,2000
+735,North Dakota,3,0,3,2000
+736,Ohio,21,0,21,2000
+737,Oklahoma,8,0,8,2000
+738,Oregon,7,7,0,2000
+739,Pennsylvania,23,23,0,2000
+740,Rhode Island,4,4,0,2000
+741,South Carolina,8,0,8,2000
+742,South Dakota,3,0,3,2000
+743,Tennessee,11,0,11,2000
+744,Texas,32,0,32,2000
+745,Utah,5,0,5,2000
+746,Vermont,3,3,0,2000
+747,Virginia,13,0,13,2000
+748,Washington,11,11,0,2000
+749,West Virginia,5,0,5,2000
+750,Wisconsin,11,11,0,2000
+751,Wyoming,3,0,3,2000
+752,Alabama,9,0,9,2004
+753,Alaska,3,0,3,2004
+754,Arizona,10,0,10,2004
+755,Arkansas,6,0,6,2004
+756,California,55,55,0,2004
+757,Colorado,9,0,9,2004
+758,Connecticut,7,7,0,2004
+759,Delaware,3,3,0,2004
+760,District of Columbia,3,3,0,2004
+761,Florida,27,0,27,2004
+762,Georgia,15,0,15,2004
+763,Hawaii,4,4,0,2004
+764,Idaho,4,0,4,2004
+765,Illinois,21,21,0,2004
+766,Indiana,11,0,11,2004
+767,Iowa,7,0,7,2004
+768,Kansas,6,0,6,2004
+769,Kentucky,8,0,8,2004
+770,Louisiana,9,0,9,2004
+771,Maine,4,4,0,2004
+772,Maryland,10,10,0,2004
+773,Massachusetts,12,12,0,2004
+774,Michigan,17,17,0,2004
+775,Minnesota,10,9,0,2004
+776,Mississippi,6,0,6,2004
+777,Missouri,11,0,11,2004
+778,Montana,3,0,3,2004
+779,Nebraska,5,0,5,2004
+780,Nevada,5,0,5,2004
+781,New Hampshire,4,4,0,2004
+782,New Jersey,15,15,0,2004
+783,New Mexico,5,0,5,2004
+784,New York,31,31,0,2004
+785,North Carolina,15,0,15,2004
+786,North Dakota,3,0,3,2004
+787,Ohio,20,0,20,2004
+788,Oklahoma,7,0,7,2004
+789,Oregon,7,7,0,2004
+790,Pennsylvania,21,21,0,2004
+791,Rhode Island,4,4,0,2004
+792,South Carolina,8,0,8,2004
+793,South Dakota,3,0,3,2004
+794,Tennessee,11,0,11,2004
+795,Texas,34,0,34,2004
+796,Utah,5,0,5,2004
+797,Vermont,3,3,0,2004
+798,Virginia,13,0,13,2004
+799,Washington,11,11,0,2004
+800,West Virginia,5,0,5,2004
+801,Wisconsin,10,10,0,2004
+802,Wyoming,3,0,3,2004
+803,Alabama,9,0,9,2008
+804,Alaska,3,0,3,2008
+805,Arizona,10,0,10,2008
+806,Arkansas,6,0,6,2008
+807,California,55,55,0,2008
+808,Colorado,9,9,0,2008
+809,Connecticut,7,7,0,2008
+810,Delaware,3,3,0,2008
+811,District of Columbia,3,3,0,2008
+812,Florida,27,27,0,2008
+813,Georgia,15,0,15,2008
+814,Hawaii,4,4,0,2008
+815,Idaho,4,0,4,2008
+816,Illinois,21,21,0,2008
+817,Indiana,11,11,0,2008
+818,Iowa,7,7,0,2008
+819,Kansas,6,0,6,2008
+820,Kentucky,8,0,8,2008
+821,Louisiana,9,0,9,2008
+822,Maine,4,4,0,2008
+823,Maryland,10,10,0,2008
+824,Massachusetts,12,12,0,2008
+825,Michigan,17,17,0,2008
+826,Minnesota,10,10,0,2008
+827,Mississippi,6,0,6,2008
+828,Missouri,11,0,11,2008
+829,Montana,3,0,3,2008
+830,Nebraska  (see Notes),5,1,4,2008
+831,Nevada,5,5,0,2008
+832,New Hampshire,4,4,0,2008
+833,New Jersey,15,15,0,2008
+834,New Mexico,5,5,0,2008
+835,New York,31,31,0,2008
+836,North Carolina,15,15,0,2008
+837,North Dakota,3,0,3,2008
+838,Ohio,20,20,0,2008
+839,Oklahoma,7,0,7,2008
+840,Oregon,7,7,0,2008
+841,Pennsylvania,21,21,0,2008
+842,Rhode Island,4,4,0,2008
+843,South Carolina,8,0,8,2008
+844,South Dakota,3,0,3,2008
+845,Tennessee,11,0,11,2008
+846,Texas,34,0,34,2008
+847,Utah,5,0,5,2008
+848,Vermont,3,3,0,2008
+849,Virginia,13,13,0,2008
+850,Washington,11,11,0,2008
+851,West Virginia,5,0,5,2008
+852,Wisconsin,10,10,0,2008
+853,Wyoming,3,0,3,2008
+854,Alabama,9,0,9,2012
+855,Alaska,3,0,3,2012
+856,Arizona,11,0,11,2012
+857,Arkansas,6,0,6,2012
+858,California,55,55,0,2012
+859,Colorado,9,9,0,2012
+860,Connecticut,7,7,0,2012
+861,Delaware,3,3,0,2012
+862,District of Columbia,3,3,0,2012
+863,Florida,29,29,0,2012
+864,Georgia,16,0,16,2012
+865,Hawaii,4,4,0,2012
+866,Idaho,4,0,4,2012
+867,Illinois,20,20,0,2012
+868,Indiana,11,0,11,2012
+869,Iowa,6,6,0,2012
+870,Kansas,6,0,6,2012
+871,Kentucky,8,0,8,2012
+872,Louisiana,8,0,8,2012
+873,Maine,4,4,0,2012
+874,Maryland,10,10,0,2012
+875,Massachusetts,11,11,0,2012
+876,Michigan,16,16,0,2012
+877,Minnesota,10,10,0,2012
+878,Mississippi,6,0,6,2012
+879,Missouri,10,0,10,2012
+880,Montana,3,0,3,2012
+881,Nebraska,5,0,5,2012
+882,Nevada,6,6,0,2012
+883,New Hampshire,4,4,0,2012
+884,New Jersey,14,14,0,2012
+885,New Mexico,5,5,0,2012
+886,New York,29,29,0,2012
+887,North Carolina,15,0,15,2012
+888,North Dakota,3,0,3,2012
+889,Ohio,18,18,0,2012
+890,Oklahoma,7,0,7,2012
+891,Oregon,7,7,0,2012
+892,Pennsylvania,20,20,0,2012
+893,Rhode Island,4,4,0,2012
+894,South Carolina,9,0,9,2012
+895,South Dakota,3,0,3,2012
+896,Tennessee,11,0,11,2012
+897,Texas,38,0,38,2012
+898,Utah,6,0,6,2012
+899,Vermont,3,3,0,2012
+900,Virginia,13,13,0,2012
+901,Washington,12,12,0,2012
+902,West Virginia,5,0,5,2012
+903,Wisconsin,10,10,0,2012
+904,Wyoming,3,0,3,2012
+905,Alabama,9,0,9,2016
+906,Alaska,3,0,3,2016
+907,Arizona,11,0,11,2016
+908,Arkansas,6,0,6,2016
+909,California,55,0,0,2016
+910,Colorado,9,0,0,2016
+911,Connecticut,7,0,0,2016
+912,Delaware,3,0,0,2016
+913,District of Columbia,3,0,0,2016
+914,Florida,29,0,29,2016
+915,Georgia,16,0,16,2016
+916,Hawaii*,4,0,0,2016
+917,Idaho,4,0,4,2016
+918,Illinois,20,0,0,2016
+919,Indiana,11,0,11,2016
+920,Iowa,6,0,6,2016
+921,Kansas,6,0,6,2016
+922,Kentucky,8,0,8,2016
+923,Louisiana,8,0,8,2016
+924,Maine**,4,0,1,2016
+925,Maryland,10,0,0,2016
+926,Massachusetts,11,0,0,2016
+927,Michigan,16,0,16,2016
+928,Minnesota,10,0,0,2016
+929,Mississippi,6,0,6,2016
+930,Missouri,10,0,10,2016
+931,Montana,3,0,3,2016
+932,Nebraska,5,0,5,2016
+933,Nevada,6,0,0,2016
+934,New Hampshire,4,0,0,2016
+935,New Jersey,14,0,0,2016
+936,New Mexico,5,0,0,2016
+937,New York,29,0,0,2016
+938,North Carolina,15,0,15,2016
+939,North Dakota,3,0,3,2016
+940,Ohio,18,0,18,2016
+941,Oklahoma,7,0,7,2016
+942,Oregon,7,0,0,2016
+943,Pennsylvania,20,0,20,2016
+944,Rhode Island,4,0,0,2016
+945,South Carolina,9,0,9,2016
+946,South Dakota,3,0,3,2016
+947,Tennessee,11,0,11,2016
+948,Texas***,38,2,36,2016
+949,Utah,6,0,6,2016
+950,Vermont,3,0,0,2016
+951,Virginia,13,0,0,2016
+952,Washington****,12,0,0,2016
+953,West Virginia,5,0,5,2016
+954,Wisconsin,10,0,10,2016
+955,Wyoming,3,0,3,2016
